@@ -1,9 +1,19 @@
 :::header
+
+~ | [~hdr-icon] | [~hdr-title] |
+~ | :--- | :--- |
+
+:::warp hdr-icon
 ![The Creators' Garage](./images/icon.png =100x)
+:::
+
+:::warp hdr-title
 
 # The Creators' Garage
 
 職業エンジニアのための、趣味としての創作共有コミュニティ
+:::
+
 :::
 
 ## コミュニティについて
